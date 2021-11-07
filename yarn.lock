@@ -3195,9 +3195,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001274":
-  version: 1.0.30001277
-  resolution: "caniuse-lite@npm:1.0.30001277"
-  checksum: 252db4aa2fa035112766c9a6aeadc913157bf55ba2febd849da8c60771b301cc2e287ed2b2643b06d93f6abc81dcd01bd6f0622ed57603ed5292aa39fb6b3a0d
+  version: 1.0.30001278
+  resolution: "caniuse-lite@npm:1.0.30001278"
+  checksum: 5904289063885be40a98bf124191e816c68117d6a392065f937dd0b4929346bd677ed11ef00cadf65b2485635add46c9c33a85dc52dbf0f7dd6511f3452472bc
   languageName: node
   linkType: hard
 
@@ -3958,9 +3958,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.3.886":
-  version: 1.3.889
-  resolution: "electron-to-chromium@npm:1.3.889"
-  checksum: c0c034ef51153ea0ab72780d8c142d75acbc82b7f0538212bff5621c63f853582b919f0870311b9a9b36abf1d00dfe10664c98ca6fc286210bfaf694f1ab1680
+  version: 1.3.890
+  resolution: "electron-to-chromium@npm:1.3.890"
+  checksum: 1ac87137ba1a317660fdf9292edfa5de33b6d24d15954d88b3f7ca109087f0ae8d088fc56fda724234af5d14d6a9ece62963dfec580e685026f9f1afb68e7bf5
   languageName: node
   linkType: hard
 
@@ -7109,8 +7109,8 @@ __metadata:
   linkType: hard
 
 "node-gyp@npm:*, node-gyp@npm:^8.2.0, node-gyp@npm:latest":
-  version: 8.3.0
-  resolution: "node-gyp@npm:8.3.0"
+  version: 8.4.0
+  resolution: "node-gyp@npm:8.4.0"
   dependencies:
     env-paths: ^2.2.0
     glob: ^7.1.4
@@ -7124,7 +7124,7 @@ __metadata:
     which: ^2.0.2
   bin:
     node-gyp: bin/node-gyp.js
-  checksum: a0304728eb56c99ce61b3210b934d247b72bba81658d1d92fc0f125bbdd252bbcdedcd949a09ead9e52d6fa742301945ead06d0e2d67f614f4426b5fc6d30996
+  checksum: a5a0045f6a1708a7760cfee2b5e2cd9072dd6a0d5d3376bb96e0bae1f1e43d14a0bd54970e1fbd2632cceb9c23d36a3efabe88c26256693e969566cf977501c2
   languageName: node
   linkType: hard
 
