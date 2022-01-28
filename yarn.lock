@@ -2,7 +2,7 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 5
+  version: 6
   cacheKey: 8
 
 "@babel/code-frame@npm:7.12.11":
@@ -30,30 +30,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:7.16.10":
-  version: 7.16.10
-  resolution: "@babel/core@npm:7.16.10"
-  dependencies:
-    "@babel/code-frame": ^7.16.7
-    "@babel/generator": ^7.16.8
-    "@babel/helper-compilation-targets": ^7.16.7
-    "@babel/helper-module-transforms": ^7.16.7
-    "@babel/helpers": ^7.16.7
-    "@babel/parser": ^7.16.10
-    "@babel/template": ^7.16.7
-    "@babel/traverse": ^7.16.10
-    "@babel/types": ^7.16.8
-    convert-source-map: ^1.7.0
-    debug: ^4.1.0
-    gensync: ^1.0.0-beta.2
-    json5: ^2.1.2
-    semver: ^6.3.0
-    source-map: ^0.5.0
-  checksum: d34c5edf9258e620d0cbea4ed25a2615f5ab86dc7f7c1b96ac19817fb7d57bfae9af72dc244385a724225dbc701cb878d9559158aee9659e2a3c69d03f93f3e1
-  languageName: node
-  linkType: hard
-
-"@babel/core@npm:^7.1.0, @babel/core@npm:^7.12.3, @babel/core@npm:^7.7.2, @babel/core@npm:^7.8.0":
+"@babel/core@npm:7.16.12, @babel/core@npm:^7.1.0, @babel/core@npm:^7.12.3, @babel/core@npm:^7.7.2, @babel/core@npm:^7.8.0":
   version: 7.16.12
   resolution: "@babel/core@npm:7.16.12"
   dependencies:
@@ -8148,9 +8125,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:2.65.0":
-  version: 2.65.0
-  resolution: "rollup@npm:2.65.0"
+"rollup@npm:2.66.1":
+  version: 2.66.1
+  resolution: "rollup@npm:2.66.1"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -8158,7 +8135,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 666063049e8ff5c7a9d7629f4cb9576aff10756e02b4b5e633ed1df3dc7f148f4579118f2fc7e92d9d5ec96a1dd9b7ea3f3b1706ad6d1259bb3d38a9622b3402
+  checksum: ecd7917deeaa3005ac7cdd64186daf024594bd9ba940e32fc8966602a83349074d0ec999256009dc4475e7c3786ac52cdd824ee9df514b8c356b960fda6bfb34
   languageName: node
   linkType: hard
 
@@ -9120,7 +9097,7 @@ __metadata:
 
 "typescript@patch:typescript@4.5.5#~builtin<compat/typescript>":
   version: 4.5.5
-  resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=de8f8a"
+  resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=142761"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
@@ -9335,7 +9312,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "wb-scripts@workspace:."
   dependencies:
-    "@babel/core": 7.16.10
+    "@babel/core": 7.16.12
     "@babel/node": 7.16.8
     "@babel/plugin-proposal-class-properties": 7.16.7
     "@babel/plugin-proposal-numeric-separator": 7.16.7
@@ -9368,7 +9345,7 @@ __metadata:
     micromatch: 4.0.4
     pinst: 2.1.6
     prettier: 2.5.1
-    rollup: 2.65.0
+    rollup: 2.66.1
     rollup-plugin-node-externals: 3.1.2
     semantic-release: 17.4.7
     sort-package-json: 1.53.1
